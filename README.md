@@ -2,7 +2,7 @@
 Repositorio clase ia
 
 - hola
-    . estoy probando cambios
+    - estoy probando cambios
 
 
 prueba de cambio
