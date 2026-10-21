@@ -21,4 +21,4 @@ Repositorio académico con las actividades prácticas, ejercicios guiados y labo
 
 1. Clonar el repositorio:
    ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
+   git clone <https://github.com/benjaman23/curso_ia>
