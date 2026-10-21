@@ -1,8 +1,24 @@
-# curso_ia
-Repositorio clase ia
+# 🤖 Inteligencia Artificial y Tecnología Emergente
 
-- hola
-    - estoy probando cambios
+Repositorio académico con las actividades prácticas, ejercicios guiados y laboratorios desarrollados durante el semestre.
+
+* **Autor:** Benjamín Guerrero
+* **Asignatura:** Inteligencia Artificial y Tecnología Emergente
+* **Periodo:** 2026-2
+
+---
 
 
-prueba de cambio
+## 🛠️ Tecnologías y Herramientas
+
+* **Lenguaje:** Python 3
+* **Librerías principales:** Pandas
+* **Entorno de desarrollo:** Visual Studio Code & Jupyter Notebooks (`.ipynb`)
+
+---
+
+## 🚀 Cómo ejecutar este repositorio
+
+1. Clonar el repositorio:
+   ```bash
+   git clone <URL_DE_TU_REPOSITORIO>
